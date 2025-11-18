@@ -9,25 +9,29 @@
 <img width="1008" height="570" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/Dashboard.png" />
 The Blinkit sales dashboard provides a clear overview of business performance across outlets and product categories. The company achieved total sales of $1.20M from 8,523 items, with an average sale of $141 and a strong average customer rating of 4.1.Overall, the data suggests that Blinkit’s success is driven by medium-sized outlets, Tier 3 locations, and high-demand daily consumables, backed by solid customer satisfaction levels.
 
-<h1>📘 Project Description</h1>
+<h1>📊 PhonePe Digital Payments Analysis</h1>
 
-• This project provides a comprehensive data analysis of Blinkit, India’s leading quick-commerce (Q-commerce) platform that delivers groceries and essentials within minutes.
+A Data Analytics Project on India’s Digital Transaction Ecosystem
 
-• The analysis focuses on understanding sales performance, customer behavior, delivery efficiency, and product category trends using data visualization and statistical methods.
+<h1>📌 Project Overview</h1>
 
-• The goal is to uncover key business insights that help improve customer satisfaction, operational efficiency, and revenue growth.
+This project explores the PhonePe dataset to understand digital payment trends across India. The analysis includes transaction types, loan amounts, insurance, and overall financial behavior through interactive dashboards and statistical insights.
+
+<h1>🎯 Objectives</h1>
+
+• Analyze transaction volume and value across states and quarters
+
+• Study usage patterns of digital payments in India
+
+• Explore loan and insurance distribution
+
+• Evaluate customer engagement through transaction categories
+
+• Create meaningful visualizations for business decisions
 
 
-<H1>🎯 Objectives</H1>
 
 
-• Analyze Blinkit’s sales and delivery performance.
-
-• Identify key factors influencing customer satisfaction.
-
-• Evaluate the relationship between discounts, sales, and ratings.
-
-• Visualize patterns and trends for better business decisions.
 
 
 <H1>🛍️ITEM TYPE</H1>
