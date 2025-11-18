@@ -1,7 +1,5 @@
 # Power-Bi-Phone_Pay
-# 🛒 Blinkit-Grocery-Analysis
 
-![Blinkit_analysis](https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/Blinkit1.png?raw=true)
 
 <H1>Tool Used :</H1>
 <img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/user-attachments/assets/851f4112-a48a-460d-a69d-a8a3d6ca81d5" />
