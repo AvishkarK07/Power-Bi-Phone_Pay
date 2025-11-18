@@ -2,7 +2,7 @@
 
 
 <H1>Tool Used :</H1>
-<img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/user-attachments/assets/851f4112-a48a-460d-a69d-a8a3d6ca81d5" />
+<img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/power%20bi.jpeg" />
 
 <h1>📊 PhonePe Digital Payments Analysis</h1>
 
