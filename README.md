@@ -43,7 +43,7 @@ This project explores the PhonePe dataset to understand digital payment trends a
 • Niche or less frequently bought items (like seafood and breakfast products) contribute less to total sales.
 
 <H1>🥛FAT CONTENT</H1>
-<img width="400" height="500" alt="weekly pattern" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/FAT%20CONTENT.png" />
+<img width="400" height="500" alt="weekly pattern" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/insurance.png" />
 
 • Customers prefer Regular fat items over Low-fat ones, almost 2:1 ratio.
 
