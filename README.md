@@ -52,7 +52,7 @@ This project explores the PhonePe dataset to understand digital payment trends a
 • For business strategy, Blinkit might focus on maintaining strong availability of regular-fat items, while promoting low-fat options to health-conscious buyers to balance sales.
 
 <H1>🏬OUTLET SIZE</H1>
-<img width="400" height="500" alt="OUTLET" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/OUTLET%20SIZE.png" />
+<img width="400" height="500" alt="OUTLET" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/loan.png" />
 
 • The medium-sized outlets are driving the highest revenue, followed by small outlets, while large (high) outlets underperform in comparison.
 
