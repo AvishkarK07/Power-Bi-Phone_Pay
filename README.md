@@ -38,16 +38,16 @@ This project explores the PhonePe dataset to understand digital payment trends a
 <img width="900" height="500" alt="item type" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/All_transcation.png" />
 
 <H1>💼 Insurance</H1>
-<img width="400" height="500" alt="weekly pattern" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/insurance.png" />
+<img width="900" height="500" alt="weekly pattern" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/insurance.png" />
 
 <H1>💰 Loan</H1>
-<img width="400" height="500" alt="OUTLET" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/loan.png" />
+<img width="900" height="500" alt="OUTLET" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/loan.png" />
 
 <H1>💸 Money Transfer</H1>
-<img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/Money%20Transfer.png" />
+<img width="900" height="500" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/Money%20Transfer.png" />
 
 <H1>📱 Recharge_Bills</H1>
-<img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/Recharge_bill.png" />
+<img width="900" height="500" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/Recharge_bill.png" />
 
 <H1>🛠️ Tools & Technologies</H1>
 <img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/tools.png" />
