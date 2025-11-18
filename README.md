@@ -35,7 +35,7 @@ This project explores the PhonePe dataset to understand digital payment trends a
 
 
 <H1>🛍️ITEM TYPE</H1>
-<img width="750" height="450" alt="item type" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/ITEM%20TYPE.png" />
+<img width="750" height="450" alt="item type" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/All_transcation.png" />
 • Fruits and Vegetables and Snack Foods dominate the market.
 
 • Essential and frequently purchased items (like food, household, and dairy) perform better.
