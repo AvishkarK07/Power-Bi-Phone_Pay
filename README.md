@@ -1,6 +1,3 @@
-# Power-Bi-Phone_Pay
-
-
 <h1>📊 PhonePe Digital Payments Analysis</h1>
 
 A Data Analytics Project on India’s Digital Transaction Ecosystem
