@@ -35,7 +35,7 @@ This project explores the PhonePe dataset to understand digital payment trends a
 
 
 <H1>📈 All Transactions Overview</H1>
-<img width="750" height="450" alt="item type" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/All_transcation.png" />
+<img width="900" height="500" alt="item type" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/All_transcation.png" />
 
 <H1>💼 Insurance</H1>
 <img width="400" height="500" alt="weekly pattern" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/insurance.png" />
