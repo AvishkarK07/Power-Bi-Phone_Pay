@@ -1,12 +1,13 @@
 # Power-Bi-Phone_Pay
 
 
-<H1>Tool Used :</H1>
-<img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/power%20bi.jpeg" />
-
 <h1>📊 PhonePe Digital Payments Analysis</h1>
 
 A Data Analytics Project on India’s Digital Transaction Ecosystem
+
+<H1>Tool Used :</H1>
+<img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/power%20bi.jpeg" />
+
 
 <h1>📌 Project Overview</h1>
 
