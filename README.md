@@ -42,14 +42,9 @@ This project explores the PhonePe dataset to understand digital payment trends a
 <H1>📱 Recharge_Bills</H1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/Recharge_bill.png" />
 
-<H1>🛠️ Tools & Technologies</H1>
-<img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/tools.png" />
+
 
 <h1>📌 Conclusion</h1>
 
 This analysis highlights the rapid adoption of digital payments in India, with strong growth across states, particularly urban regions. Insights support better product strategies and targeted financial services.
 
-<H1>🏁 Conclusion</H1>
-
-This Blinkit Analysis project demonstrates how data-driven decision-making can improve efficiency and customer satisfaction in quick-commerce platforms.
-By analyzing sales, delivery, and ratings data, businesses can uncover hidden trends and optimize operations for sustainable growth.
