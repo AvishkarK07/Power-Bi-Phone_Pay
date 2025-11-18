@@ -64,6 +64,9 @@ This project explores the PhonePe dataset to understand digital payment trends a
 • The outlet establishment values grew steadily for several years, hit a large peak in 2018, and then settled back to a stable level similar to pre-2018 numbers.
 
 • The 2018 surge might indicate a one-time event or investment boom, while the years after show normalization.
+<H1>📅ITEM ESTABLISHMENT</H1>
+<img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/Recharge_bill.png" />
+
 <H1>🛠️ Tools & Technologies</H1>
 <img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/tools.png" />
 
