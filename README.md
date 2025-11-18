@@ -34,37 +34,19 @@ This project explores the PhonePe dataset to understand digital payment trends a
 
 
 
-<H1>🛍️ITEM TYPE</H1>
+<H1>📈 All Transactions Overview</H1>
 <img width="750" height="450" alt="item type" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/All_transcation.png" />
-• Fruits and Vegetables and Snack Foods dominate the market.
 
-• Essential and frequently purchased items (like food, household, and dairy) perform better.
-
-• Niche or less frequently bought items (like seafood and breakfast products) contribute less to total sales.
-
-<H1>🥛FAT CONTENT</H1>
+<H1>💼 Insurance</H1>
 <img width="400" height="500" alt="weekly pattern" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/insurance.png" />
 
-• Customers prefer Regular fat items over Low-fat ones, almost 2:1 ratio.
-
-• This indicates that taste and preference may outweigh health considerations for most consumers.
-
-• For business strategy, Blinkit might focus on maintaining strong availability of regular-fat items, while promoting low-fat options to health-conscious buyers to balance sales.
-
-<H1>🏬OUTLET SIZE</H1>
+<H1>💰 Loan</H1>
 <img width="400" height="500" alt="OUTLET" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/loan.png" />
 
-• The medium-sized outlets are driving the highest revenue, followed by small outlets, while large (high) outlets underperform in comparison.
-
-• This may suggest that medium outlets strike a balance between reach, cost, and efficiency—making them the most effective outlet size in terms of sales generation.
-
-<H1>📅ITEM ESTABLISHMENT</H1>
+<H1>💸 Money Transfer</H1>
 <img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/Money%20Transfer.png" />
 
-• The outlet establishment values grew steadily for several years, hit a large peak in 2018, and then settled back to a stable level similar to pre-2018 numbers.
-
-• The 2018 surge might indicate a one-time event or investment boom, while the years after show normalization.
-<H1>📅ITEM ESTABLISHMENT</H1>
+<H1>📱 Recharge_Bills</H1>
 <img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/Recharge_bill.png" />
 
 <H1>🛠️ Tools & Technologies</H1>
