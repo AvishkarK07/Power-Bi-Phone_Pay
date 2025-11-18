@@ -5,9 +5,6 @@
 
 <H1>Tool Used :</H1>
 <img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/user-attachments/assets/851f4112-a48a-460d-a69d-a8a3d6ca81d5" />
-<H1>Blinkit-Analysis-Dashboard</H1>
-<img width="1008" height="570" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/Dashboard.png" />
-The Blinkit sales dashboard provides a clear overview of business performance across outlets and product categories. The company achieved total sales of $1.20M from 8,523 items, with an average sale of $141 and a strong average customer rating of 4.1.Overall, the data suggests that Blinkit’s success is driven by medium-sized outlets, Tier 3 locations, and high-demand daily consumables, backed by solid customer satisfaction levels.
 
 <h1>📊 PhonePe Digital Payments Analysis</h1>
 
