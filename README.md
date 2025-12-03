@@ -79,6 +79,20 @@ To make the dataset ready for analysis:
         
       • Table: User ID → Transaction ID mapping
 
+<h1>📈 Insights You Can Discover</h1>
+
+      • Here are some interesting insights you can derive from the dataset:
+    
+          • Which age group is most active in joining the platform?
+        
+          • What is the average age of new users every year?
+        
+          • Are transactions evenly distributed across users?
+        
+          • Does user onboarding follow any seasonal trend?
+        
+          • Which period saw the highest user growth?
+
 
 
 <H1>📈 All Transactions Overview</H1>
