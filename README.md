@@ -2,6 +2,8 @@
 
 A Data Analytics Project on India’s Digital Transaction Ecosystem
 
+<img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/dash.jpg" />
+
 <H1>Tool Used :</H1>
 <img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/power%20bi.jpeg" />
 
