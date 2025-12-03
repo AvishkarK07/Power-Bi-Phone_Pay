@@ -22,6 +22,23 @@ This project explores the PhonePe dataset to understand digital payment trends a
 
 • Create meaningful visualizations for business decisions
 
+<h1>🎯 Use Cases</h1>
+
+• This dataset can be used for:
+
+    👥 User behavior analysis
+    
+    📊 User growth trends
+    
+    🔁 Repeat transaction tracking
+    
+    🧭 Cohort analysis
+    
+    🧮 Age group segmentation
+    
+    🛠️ Power BI dashboard creation
+    
+    🔍 Data cleaning & feature engineering practice
 
 
 <h1>🧹 Data Cleaning Suggestions</h1>
