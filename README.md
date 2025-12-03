@@ -53,6 +53,32 @@ To make the dataset ready for analysis:
   
   • Validate uniqueness of User_ID and Transaction_ID.
 
+  <h1>📊 Recommended Visuals for Power BI Dashboard</h1>
+
+  • You can build a stunning dashboard using:
+
+    🟦 KPI Cards
+    
+      • Total Users
+        
+      • Average Age
+        
+      • Recent New Users
+        
+      • Unique Transactions
+
+    🟧 Charts
+    
+      • Bar / Column Chart: Users by Age Range
+        
+      • Line Chart: Monthly User Join Trend
+        
+      • Donut Chart: Age Group Distribution
+        
+      • Treemap: Users by Name (Frequency)
+        
+      • Table: User ID → Transaction ID mapping
+
 
 
 <H1>📈 All Transactions Overview</H1>
