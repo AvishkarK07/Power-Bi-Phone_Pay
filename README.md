@@ -24,6 +24,17 @@ This project explores the PhonePe dataset to understand digital payment trends a
 
 
 
+<h1>🧹 Data Cleaning Suggestions</h1>
+
+To make the dataset ready for analysis:
+
+  • Convert Join_Date to proper date format.
+  
+  • Handle missing or inconsistent values in Age.
+  
+  • Standardize user names (if needed).
+  
+  • Validate uniqueness of User_ID and Transaction_ID.
 
 
 
